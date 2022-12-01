@@ -2,4 +2,4 @@
 
 This repository should become a conflict generator.
 
-Edition from conflict2.
+Edition from __here from conflicts__ conflict2.
